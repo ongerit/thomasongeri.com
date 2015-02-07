@@ -1,3 +1,4 @@
+
 @extends('templates.default')
 
 @section('title'){{ $post->title }} @stop
@@ -8,3 +9,4 @@
             {{ Markdown::parse($post->body) }}
         </article>
 @stop
+
