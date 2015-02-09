@@ -17,7 +17,7 @@
     					</div>
     					<div class="row hero-content">
     						<div class="col-md-12 text-center">
-    							<h1 class="animated fadeInDown">Hi. I'm Thomas and I'm a Brooklyn-based web developer.</h1>
+    							<h1 class="animated fadeInDown">Hi, I'm Thomas. I'm a Brooklyn-based web developer.</h1>
     							<a href="#" class="use-btn animated fadeInUp">Hire me</a> <a href="#about" class="learn-btn animated fadeInUp">Learn more <i class="fa fa-arrow-down"></i></a>
     						</div>
     					</div>
